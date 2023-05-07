@@ -1,15 +1,15 @@
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/DhstvI3zZ598Nb1rFf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theoffice-the-office-episode-23-tv-DhstvI3zZ598Nb1rFf">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/iFroMXf8HkQD5LrJOJ/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Anneice, a full-time full-stack developer 💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Anneice, a full-time full-stack developer 👩🏿‍💻 working remotely since 2013 🚀</div>  
   
 
-- ♀️ Pronouns: She/Her/Hers/Queen  
+- ♀️ Pronouns: She/Her/Hers/Queen 👸🏿
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning: Python 
   
 
 - ❓ Ask me about anything related to PERN stack, CSS, and related technologies  
@@ -18,13 +18,16 @@
 - ⚡ Fun fact: I love cows 🐄  
   
 
-- 💕 Hobbies: Reading, Video Games, Photography, Crochet  
+- 💕 Hobbies: Reading 📚, Video Games 🎮, Photography 📷, Crochet 🧶 
   
 
-- 🏡 My Family: Married, 3 kids, and 2 dogs  
+- 🏡 My Family: Married 👩🏿‍❤️‍👨🏽, 3 kids 👩🏾‍🦱🧑🏾‍🦱👩🏾‍🦱, and 2 dogs 🐾 
   
 
-- 🍴 Favorite Food: Sushi, Tacos, and Ice Cream  
+- 🍴 Favorite Food: Sushi 🍣, Tacos 🌮, and Ice Cream 🍨  
+
+
+- 😍 I Cannot Stop Talking About: Hamilton "I am not throwing away my shot!"
   
 
 <br/>  
