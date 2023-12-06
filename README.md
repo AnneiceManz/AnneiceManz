@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anneice, a full-time full-stack developer 👩🏿‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Anneice, a full-time full-stack developer @ Playstation 👩🏿‍💻 working remotely </div>  
   
 
 - ♀️ Pronouns: She/Her/Hers/Queen 👸🏿
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love cows 🐄  
   
 
-- 💕 Hobbies: Reading 📚, Video Games 🎮, Photography 📷, Crochet 🧶 
+- 💕 Hobbies: Reading 📚, Video Games 🎮, Photography 📷, Crochet 🧶, DnD 🐉
   
 
 - 🏡 My Family: Married 👩🏿‍❤️‍👨🏽, 3 kids 👩🏾‍🦱🧑🏾‍🦱👩🏾‍🦱, and 2 dogs 🐾 
